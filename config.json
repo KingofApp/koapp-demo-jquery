@@ -1,0 +1,15 @@
+{
+      "name": "jQuery Demo",
+      "identifier": "jquerydemo",
+      "type": "$",
+      "icon": "code",
+      "showOn": {
+        "market": false,
+        "dragDrop": true
+      },
+      "view": "modules/jquerydemo/index.html",
+      "files": ["modules/jquerydemo/controller.js","modules/jquerydemo/main.js","modules/jquerydemo/styles.html"],
+      "scope": {
+        "debug": true
+      }
+    }
